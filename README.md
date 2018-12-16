@@ -10,7 +10,7 @@ Note: If you already have an exisitng "install" of rclone, and dont specify your
 ### PowerShell:
 1. Open PowerShell as an Administrator.
 2. Paste the following: `curl https://raw.githubusercontent.com/Moodkiller/rclone-updater-1.0/master/rclone-updater.ps1 | iex`
-3. Press enter.
+3. Press 'Enter`.
 
 ### CMD (If you are running the latest Windows 10):
 1. Open CMD as an Administrator.
