@@ -22,5 +22,6 @@ Note: If you already have an exisitng "install" of rclone, and dont specify your
 2. Unzip to your desired location (doesn't matter where).
 3. Right-click > Run as administrator on `rclone-updater (run as admin).bat` (this will download the latest rclone from the source stated below and install it).
 
-## Source:
+## Sources:
 rclone: https://github.com/ncw/rclone/releases
+Modified MPV update script from shinchiro: https://sourceforge.net/projects/mpv-player-windows/files/
