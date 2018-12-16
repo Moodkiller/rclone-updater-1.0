@@ -12,7 +12,7 @@ Note: If you already have an exisitng "install" of rclone, and dont specify your
 2. Paste the following: `curl -O https://raw.githubusercontent.com/Moodkiller/rclone-updater-1.0/master/rclone-updater.ps1 | powershell.exe .\rclone-updater.ps1`
 3. Press enter and excuse the mess. 
 
-#### Or if you prefer PowerShell
+#### Or if you prefer PowerShell:
 1. Open PowerShell as an Administrator.
 2. Paste the following: `curl https://raw.githubusercontent.com/Moodkiller/rclone-updater-1.0/master/rclone-updater.ps1 | iex`
 
