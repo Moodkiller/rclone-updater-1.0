@@ -8,7 +8,7 @@ Note: If you already have an exisitng "install" of rclone, and dont specify your
 
 ## Instructions:
 ### If you are running the latest Windows 10, then:
-1. Open CMD as an Administrator
+1. Open CMD as an Administrator.
 2. Paste the following: `curl -O https://raw.githubusercontent.com/Moodkiller/rclone-updater-1.0/master/rclone-updater.ps1 | powershell.exe .\rclone-updater.ps1`
 3. Press enter and excuse the mess. 
 
