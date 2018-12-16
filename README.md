@@ -16,3 +16,6 @@ Note: If you already have an exisitng "install" of rclone, and dont specify your
 1. Clone or download this repo.
 2. Unzip to your desired location.
 3. Run `rclone-updater (run as admin).bat` (this will download the latest rclone from the source stated below).
+
+## Source:
+rclone: https://rclone.org/downloads/
