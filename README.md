@@ -20,7 +20,7 @@ Note: If you already have an exisitng "install" of rclone, and dont specify your
 ### Alternativily, if you are running a version of Windows without curl installed, do the following:
 1. Clone or download this repo.
 2. Unzip to your desired location (doesn't matter where).
-3. Double click `rclone-updater (run as admin).bat` (this will download the latest rclone from the source stated below and install it).
+3. Right-click > Run as administrator on `rclone-updater (run as admin).bat` (this will download the latest rclone from the source stated below and install it).
 
 ## Source:
 rclone: https://rclone.org/downloads/
