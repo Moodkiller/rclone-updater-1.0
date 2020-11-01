@@ -28,5 +28,5 @@ CLI: `rclone-updater.ps1`
 Scripts: `C:\Users\MK\Documents\rclone-updater.ps1 -beta y -location C:\Users\MK\Downloads\rclone`
 
 ## Sources:
-rclone: https://github.com/ncw/rclone/releases
+rclone: https://github.com/ncw/rclone/releases  
 Modified MPV update script from shinchiro: https://sourceforge.net/projects/mpv-player-windows/files/
